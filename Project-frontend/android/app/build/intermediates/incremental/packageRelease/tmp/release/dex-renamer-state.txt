@@ -1,0 +1,4 @@
+#Wed Apr 19 16:12:50 IST 2023
+base.0=/Users/admin/Desktop/toDo-cli-main/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
